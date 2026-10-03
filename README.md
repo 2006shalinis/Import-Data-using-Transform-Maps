@@ -1,3 +1,6 @@
+## Project Resources
+
+- **Project Files and Documentation:** [Google Drive Folder](https://drive.google.com/drive/folders/15O0tqSE8jUyRvY435eTI6gAe8GPm5uP0?usp=sharing)
 
 
 # Import Data using Transform Maps (Spreadsheet)
@@ -38,9 +41,6 @@ This project focuses on importing data from spreadsheets using Transform Maps. I
 4. Project Design Phase
 5. Project Development Phase
 
-## Project Resources
-
-- **Project Files and Documentation:** [Google Drive Folder](https://drive.google.com/drive/folders/15O0tqSE8jUyRvY435eTI6gAe8GPm5uP0?usp=sharing)
 
 ## Expected Outcome
 
